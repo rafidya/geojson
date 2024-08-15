@@ -15,7 +15,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -2284,7 +2284,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -2415,7 +2415,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -2621,7 +2621,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -2866,7 +2866,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -2991,7 +2991,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -3228,7 +3228,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -3902,7 +3902,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -4053,7 +4053,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -4367,7 +4367,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -4470,7 +4470,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5050,7 +5050,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5153,7 +5153,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5240,7 +5240,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5472,7 +5472,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5689,7 +5689,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5772,7 +5772,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -5857,7 +5857,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -6407,7 +6407,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -6578,7 +6578,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -6661,7 +6661,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -7218,7 +7218,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -7298,7 +7298,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -7424,7 +7424,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -7605,7 +7605,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -7964,7 +7964,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -8480,7 +8480,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -9871,7 +9871,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -9990,7 +9990,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -10538,7 +10538,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -11195,7 +11195,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -11286,7 +11286,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -12433,7 +12433,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -13110,7 +13110,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -13612,7 +13612,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -13792,7 +13792,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14061,7 +14061,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14160,7 +14160,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14520,7 +14520,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14603,7 +14603,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14670,7 +14670,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -16689,7 +16689,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -16752,7 +16752,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -16864,7 +16864,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -17579,7 +17579,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -17789,7 +17789,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -18127,7 +18127,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -18234,7 +18234,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -18502,7 +18502,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -18706,7 +18706,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -19159,7 +19159,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -19334,7 +19334,7 @@
                 "Country": "INDONESIA"
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
